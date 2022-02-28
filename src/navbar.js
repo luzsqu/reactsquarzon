@@ -1,5 +1,7 @@
 import React from 'react'
 import './index.css';
+import "./shopcart.js";
+
 
 const Navbar = () => {
     return ( 
@@ -34,8 +36,12 @@ const Navbar = () => {
     </div>
   </div>
 </div>
-  </header>         
+  </header>     
+  
+  
+
+  
 
     )
 }
-export default Navbar 
+export default Navbar;
