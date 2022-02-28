@@ -1,7 +1,7 @@
-import Navbar from "./navbar"
+import Navbar from "./Components/NavBar"
 import './index.css';
 import Main from './main.js' ;
-import Shopcart from "./shopcart";
+import Shopcart from "./ShopCart";
 
 
 const App = () => {
